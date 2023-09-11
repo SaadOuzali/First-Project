@@ -1,0 +1,1 @@
+casablanca,paris,london,lisbon,cairo,tanger,agadir,madrid,roma,liverpool,oujda,milan
